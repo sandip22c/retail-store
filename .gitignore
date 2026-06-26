@@ -44,3 +44,4 @@ out/
 .vscode/
 
 jacoco.xml
+/target
